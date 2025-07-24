@@ -59,7 +59,7 @@ greenpoints-icp/
 ## 📹 Demo
 
 A full video demonstration is available at:  
-**[Demo Video (YouTube/Drive link)](https://...)**
+
 
 ## 📑 Project Motivation
 
@@ -68,11 +68,6 @@ Recycling practices lack transparency and incentivization. This project bridges 
 ## 💬 Contact & Contribution
 
 We welcome collaborators!  
-Join our Discord or reach out:
-
-- Team Lead: **@IngGeo**
-- Email: greenpoints.icp@proton.me
-- Discord: [GreenPoints ICP](https://discord.gg/...)
 
 ## 📜 License
 
